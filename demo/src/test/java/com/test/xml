@@ -1,0 +1,30 @@
+<root>
+   <seq_id></seq_id>
+   <Service-Information>
+
+      <Service-Result-Code>0</Service-Result-Code>
+      <Para-Field-Result>查询成功!</Para-Field-Result>
+      <Product-OFF-INFO>
+
+         <Offer-Type>11</Offer-Type>
+         <Product-Offer-Id>7500000000690001761</Product-Offer-Id>
+         <Product-OFF-Name>飞Young4G 201407纯流量云卡49元</Product-OFF-Name>
+         <ProdOfferInstanceId>712043631668</ProdOfferInstanceId>
+         <Respond-Ratable-Query>
+
+            <Ratable-Resource-name>免省内上网流量累积量</Ratable-Resource-name>
+            <UnitType-Id>3</UnitType-Id>
+            <Balance-Amount>2097152.00</Balance-Amount>
+            <BeginTime>20170401000000</BeginTime>
+            <Ratable-Resource-ID>321100</Ratable-Resource-ID>
+            <Owner-Type>80C</Owner-Type>
+            <EndTime>20170430235959</EndTime>
+            <Owner-ID>712043631668</Owner-ID>
+            <Usage-Amount>0.00</Usage-Amount>
+            <Ratable-Amount>2097152.00</Ratable-Amount>
+         </Respond-Ratable-Query>
+      </Product-OFF-INFO>
+   </Service-Information>
+</root>
+
+{"Service-Information":[{"Product-OFF-INFO":[{"Product-OFF-Name":"飞Young4G 201407纯流量云卡49元","Product-Offer-Id":"7500000000690001761","Offer-Type":"11","ProdOfferInstanceId":"712043631668","Respond-Ratable-Query":[{"EndTime":"20170430235959","Ratable-Resource-name":"免省内上网流量累积量","Usage-Amount":"0.00","Ratable-Amount":"2097152.00","Balance-Amount":"2097152.00","BeginTime":"20170401000000","UnitType-Id":"3","Ratable-Resource-ID":"321100","Owner-Type":"80C","Owner-ID":"712043631668"}]}],"Service-Result-Code":"0","Para-Field-Result":"查询成功!"}],"seq_id":""}
